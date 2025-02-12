@@ -1,3 +1,7 @@
 Megnézzük
 Iegn
+<<<<<<< HEAD
 negyedik szerkesztés
+=======
+3. szerkesztés
+>>>>>>> d130bc2082e891b951aa601e40ecdee2e94e4401
